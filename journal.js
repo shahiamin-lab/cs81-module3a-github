@@ -16,3 +16,7 @@ function add(a, b) {
 function milesToKm(miles) {
     return miles * 1.60934;
 }
+// Return the larger of two numbers
+function maxNumber(a, b) {
+    return a > b ? a : b;
+}
